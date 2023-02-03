@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/basicwebsite/static/css/main.a1f9446c.css",
+    "main.js": "/basicwebsite/static/js/main.251f2422.js",
+    "static/media/sphere.png": "/basicwebsite/static/media/sphere.b0371732ebba0f6d837c.png",
+    "static/media/elephant.png": "/basicwebsite/static/media/elephant.11973e6fce5676016d5e.png",
+    "static/media/imgsrc02.png": "/basicwebsite/static/media/imgsrc02.630000c56d96dc605dcf.png",
+    "static/media/animal.png": "/basicwebsite/static/media/animal.c12036f32d304b6cad07.png",
+    "static/media/tiger.png": "/basicwebsite/static/media/tiger.8a13b4a98cc2ff535241.png",
+    "static/media/imgsrc03.png": "/basicwebsite/static/media/imgsrc03.2794ae0e730d3f648946.png",
+    "static/media/lion.png": "/basicwebsite/static/media/lion.ee51bd879787aaaba9e4.png",
+    "static/media/hippo.png": "/basicwebsite/static/media/hippo.f00d0a4c4b96d71a39f1.png",
+    "static/media/dino.png": "/basicwebsite/static/media/dino.860186a03698cd96f4d1.png",
+    "index.html": "/basicwebsite/index.html",
+    "main.a1f9446c.css.map": "/basicwebsite/static/css/main.a1f9446c.css.map",
+    "main.251f2422.js.map": "/basicwebsite/static/js/main.251f2422.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f9446c.css",
+    "static/js/main.251f2422.js"
+  ]
+}
